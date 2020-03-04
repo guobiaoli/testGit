@@ -3,3 +3,6 @@ def minus(x):
 	return x-1
 
 #done
+
+def multiply(x):
+	return x*x
