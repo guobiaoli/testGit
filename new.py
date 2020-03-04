@@ -2,4 +2,5 @@ def minus(x):
 	x = int(x)
 	return x-1
 
-#done
+def find(x):
+	return str(x)+"find"
