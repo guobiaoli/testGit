@@ -4,3 +4,7 @@ def minus(x):
 
 def find(x):
 	return str(x)+"find"
+#done
+
+def multiply(x):
+	return x*x
